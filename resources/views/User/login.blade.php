@@ -13,9 +13,9 @@
         <div style="width:80%;margin: 0 auto;">
             <div id="container" class="container">
                 <div class="login-title">
-                    <h3 data-spm-anchor-id="a2a0e.login_signup.0.i0.159228293SUzXT">Welcome to Runtime Terror! Please login.</h3>
+                    <h3>Welcome to Runtime Terror! Please login.</h3>
                     <div class="login-other">
-                        <span>New member? <a href="/user/register?redirect=https%3A%2F%2Fwww.daraz.com.bd%2F%23">Register</a> here.</span>
+                        <span>New member? <a href="{{url('signup')}}">Register</a> here.</span>
                     </div>
                 </div>
                 <div>

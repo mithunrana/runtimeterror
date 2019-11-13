@@ -1,4 +1,4 @@
-<div style="position: fixed;right: 0px;bottom: 180px;width: 350px;z-index: 2;" class="card live-message-box">
+<div style="position: fixed;right: 0px;bottom: 130px;width: 350px;z-index: 2;" class="card live-message-box">
     <div style="color:white;" class="card-header bg-success">Live Chat <i class="fa fa-remove pull-right live-message-box-cross"></i></div>
   <div class="card-body">
       <input style="width: 100%;height:40px;border-radius: 5px;margin-bottom: 5px;padding-left: 5px;" type="text" placeholder="Enter Your Name">
